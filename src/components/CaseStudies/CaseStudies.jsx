@@ -1,5 +1,5 @@
 import FreeProposal from "../../FreeProposal/FreeProposal";
-import Illustration from "../../assets/case-studies-illustration.svg";
+import Illustration from "../../assets/case-studies-Illustration.svg";
 const CaseStudies = () => {
   return (
     <section id="case-studies" className="flex  scroll-mt-5 items-center">
